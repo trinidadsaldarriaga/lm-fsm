@@ -1,4 +1,5 @@
 
+//ejercicio fsm escalera
 #include <stdio.h>
 #include <stdint.h>
 #define OK true
